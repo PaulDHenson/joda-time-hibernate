@@ -423,7 +423,7 @@
   <distributionManagement>
     <snapshotRepository>
       <id>nexus-snapshots</id>
-      <url>http://localhost:8081/repository/maven-snapshots/</url>
+      <url>http://artifactory:8081/artifactory/libs-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
 
