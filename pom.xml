@@ -422,7 +422,7 @@
 
   <distributionManagement>
     <snapshotRepository>
-      <id>nexus-snapshots</id>
+      <id>snapshots</id>
       <url>http://artifactory:8081/artifactory/libs-snapshot/</url>
     </snapshotRepository>
   </distributionManagement>
